@@ -1,0 +1,235 @@
+{
+  "nodes": [
+    {
+      "id": "Computer-Systems"
+    },
+    {
+      "id": "Advanced-Auditing-Analytics"
+    },
+    {
+      "id": "Data-Structures-and-Analysis"
+    },
+    {
+      "id": "Software-Engineering"
+    },
+    {
+      "id": "Advanced-Accounting-Topics"
+    },
+    {
+      "id": "Capital-Market-Theory"
+    },
+    {
+      "id": "Legal-Environment-of-Business"
+    },
+    {
+      "id": "Strategy-and-Management"
+    },
+    {
+      "id": "Analytics-with-Financial-Accounting-Info"
+    },
+    {
+      "id": "Computer-Organization"
+    },
+    {
+      "id": "Management-Accounting"
+    },
+    {
+      "id": "Numerical-Method"
+    },
+    {
+      "id": "Software-Design"
+    },
+    {
+      "id": "Microeconomic-Theory"
+    },
+    {
+      "id": "Economics"
+    },
+    {
+      "id": "Scientific-Computing"
+    },
+    {
+      "id": "Principles-of-Macroeconomics"
+    },
+    {
+      "id": "Datebases"
+    },
+    {
+      "id": "Corporate-Finance"
+    },
+    {
+      "id": "Computer-Networking-Systems"
+    },
+    {
+      "id": "Principles-of-Microeconomics"
+    },
+    {
+      "id": "Programming-on-the-Web"
+    },
+    {
+      "id": "Auditing"
+    },
+    {
+      "id": "Accounting"
+    },
+    {
+      "id": "Finance"
+    },
+    {
+      "id": "Algorithm-Design,-Analysis-and-Complexity"
+    },
+    {
+      "id": "Organizational-Behaviour"
+    },
+    {
+      "id": "Computer-Science"
+    },
+    {
+      "id": "Principles-of-Marketing"
+    },
+    {
+      "id": "Software-Tools-and-Systems-Programming"
+    },
+    {
+      "id": "Canadian-Income-Tax"
+    },
+    {
+      "id": "International-Trade"
+    },
+    {
+      "id": "Strategic-Management"
+    },
+    {
+      "id": "Operating-Systems"
+    },
+    {
+      "id": "Commerce"
+    },
+    {
+      "id": "Financial-Accounting"
+    },
+    {
+      "id": "Theory-of-Computing"
+    },
+    {
+      "id": "UofT"
+    },
+    {
+      "id": "Operations-Management"
+    },
+    {
+      "id": "Video-Game-Design"
+    },
+    {
+      "id": "Financial-Markets"
+    },
+    {
+      "id": "Data-Analysis"
+    },
+    {
+      "id": "Deep-Learning-and-Neural-Network"
+    },
+    {
+      "id": "Machine-Learning"
+    },
+    {
+      "id": "Management-Control"
+    },
+    {
+      "id": "Artificial-Intelligence"
+    },
+    {
+      "id": "Critical-Thinking"
+    }
+  ],
+  "links": [
+    {
+      "source": "Algorithm-Design,-Analysis-and-Complexity",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Algorithm-Design,-Analysis-and-Complexity",
+      "target": "Data-Structures-and-Analysis"
+    },
+    {
+      "source": "Data-Structures-and-Analysis",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Algorithm-Design,-Analysis-and-Complexity",
+      "target": "Legal-Environment-of-Business"
+    },
+    {
+      "source": "Algorithm-Design,-Analysis-and-Complexity",
+      "target": "Data-Analysis"
+    },
+    {
+      "source": "Algorithm-Design,-Analysis-and-Complexity",
+      "target": "Economics"
+    },
+    {
+      "source": "Accounting",
+      "target": "Algorithm-Design,-Analysis-and-Complexity"
+    },
+    {
+      "source": "Legal-Environment-of-Business",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Data-Analysis",
+      "target": "Legal-Environment-of-Business"
+    },
+    {
+      "source": "Economics",
+      "target": "Legal-Environment-of-Business"
+    },
+    {
+      "source": "Data-Structures-and-Analysis",
+      "target": "Legal-Environment-of-Business"
+    },
+    {
+      "source": "Accounting",
+      "target": "Legal-Environment-of-Business"
+    },
+    {
+      "source": "Data-Analysis",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Economics",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Accounting",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Data-Analysis",
+      "target": "Economics"
+    },
+    {
+      "source": "Data-Analysis",
+      "target": "Data-Structures-and-Analysis"
+    },
+    {
+      "source": "Accounting",
+      "target": "Data-Analysis"
+    },
+    {
+      "source": "Data-Structures-and-Analysis",
+      "target": "Economics"
+    },
+    {
+      "source": "Accounting",
+      "target": "Economics"
+    },
+    {
+      "source": "Accounting",
+      "target": "Data-Structures-and-Analysis"
+    },
+    {
+      "source": "Artificial-Intelligence",
+      "target": "Deep-Learning-and-Neural-Network"
+    }
+  ]
+}
