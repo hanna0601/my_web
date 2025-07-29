@@ -1,0 +1,331 @@
+{
+  "nodes": [
+    {
+      "id": "Computer-Systems"
+    },
+    {
+      "id": "Advanced-Auditing-Analytics"
+    },
+    {
+      "id": "Data-Structures-and-Analysis"
+    },
+    {
+      "id": "Software-Engineering"
+    },
+    {
+      "id": "Advanced-Accounting-Topics"
+    },
+    {
+      "id": "Capital-Market-Theory"
+    },
+    {
+      "id": "Legal-Environment-of-Business"
+    },
+    {
+      "id": "Strategy-and-Management"
+    },
+    {
+      "id": "Analytics-with-Financial-Accounting-Info"
+    },
+    {
+      "id": "Computer-Organization"
+    },
+    {
+      "id": "Management-Accounting"
+    },
+    {
+      "id": "Numerical-Method"
+    },
+    {
+      "id": "Software-Design"
+    },
+    {
+      "id": "Microeconomic-Theory"
+    },
+    {
+      "id": "Economics"
+    },
+    {
+      "id": "Scientific-Computing"
+    },
+    {
+      "id": "Principles-of-Macroeconomics"
+    },
+    {
+      "id": "Datebases"
+    },
+    {
+      "id": "Corporate-Finance"
+    },
+    {
+      "id": "Computer-Networking-Systems"
+    },
+    {
+      "id": "Principles-of-Microeconomics"
+    },
+    {
+      "id": "Programming-on-the-Web"
+    },
+    {
+      "id": "Auditing"
+    },
+    {
+      "id": "Accounting"
+    },
+    {
+      "id": "Finance"
+    },
+    {
+      "id": "Algorithm-Design,-Analysis-and-Complexity"
+    },
+    {
+      "id": "Organizational-Behaviour"
+    },
+    {
+      "id": "Computer-Science"
+    },
+    {
+      "id": "Principles-of-Marketing"
+    },
+    {
+      "id": "Software-Tools-and-Systems-Programming"
+    },
+    {
+      "id": "Canadian-Income-Tax"
+    },
+    {
+      "id": "International-Trade"
+    },
+    {
+      "id": "Strategic-Management"
+    },
+    {
+      "id": "Operating-Systems"
+    },
+    {
+      "id": "Commerce"
+    },
+    {
+      "id": "Financial-Accounting"
+    },
+    {
+      "id": "Theory-of-Computing"
+    },
+    {
+      "id": "UofT"
+    },
+    {
+      "id": "Operations-Management"
+    },
+    {
+      "id": "Video-Game-Design"
+    },
+    {
+      "id": "Financial-Markets"
+    },
+    {
+      "id": "Data-Analysis"
+    },
+    {
+      "id": "Deep-Learning-and-Neural-Network"
+    },
+    {
+      "id": "Machine-Learning"
+    },
+    {
+      "id": "Management-Control"
+    },
+    {
+      "id": "Artificial-Intelligence"
+    },
+    {
+      "id": "Critical-Thinking"
+    }
+  ],
+  "links": [
+    {
+      "source": "Computer-Systems",
+      "target": "Advanced-Auditing-Analytics"
+    },
+    {
+      "source": "Advanced-Auditing-Analytics",
+      "target": "Data-Structures-and-Analysis"
+    },
+    {
+      "source": "Data-Structures-and-Analysis",
+      "target": "Software-Engineering"
+    },
+    {
+      "source": "Software-Engineering",
+      "target": "Advanced-Accounting-Topics"
+    },
+    {
+      "source": "Advanced-Accounting-Topics",
+      "target": "Capital-Market-Theory"
+    },
+    {
+      "source": "Capital-Market-Theory",
+      "target": "Legal-Environment-of-Business"
+    },
+    {
+      "source": "Legal-Environment-of-Business",
+      "target": "Strategy-and-Management"
+    },
+    {
+      "source": "Strategy-and-Management",
+      "target": "Analytics-with-Financial-Accounting-Info"
+    },
+    {
+      "source": "Analytics-with-Financial-Accounting-Info",
+      "target": "Computer-Organization"
+    },
+    {
+      "source": "Computer-Organization",
+      "target": "Management-Accounting"
+    },
+    {
+      "source": "Management-Accounting",
+      "target": "Numerical-Method"
+    },
+    {
+      "source": "Numerical-Method",
+      "target": "Software-Design"
+    },
+    {
+      "source": "Software-Design",
+      "target": "Microeconomic-Theory"
+    },
+    {
+      "source": "Microeconomic-Theory",
+      "target": "Economics"
+    },
+    {
+      "source": "Economics",
+      "target": "Scientific-Computing"
+    },
+    {
+      "source": "Scientific-Computing",
+      "target": "Principles-of-Macroeconomics"
+    },
+    {
+      "source": "Principles-of-Macroeconomics",
+      "target": "Datebases"
+    },
+    {
+      "source": "Datebases",
+      "target": "Corporate-Finance"
+    },
+    {
+      "source": "Corporate-Finance",
+      "target": "Computer-Networking-Systems"
+    },
+    {
+      "source": "Computer-Networking-Systems",
+      "target": "Principles-of-Microeconomics"
+    },
+    {
+      "source": "Principles-of-Microeconomics",
+      "target": "Programming-on-the-Web"
+    },
+    {
+      "source": "Programming-on-the-Web",
+      "target": "Auditing"
+    },
+    {
+      "source": "Auditing",
+      "target": "Accounting"
+    },
+    {
+      "source": "Accounting",
+      "target": "Finance"
+    },
+    {
+      "source": "Finance",
+      "target": "Algorithm-Design,-Analysis-and-Complexity"
+    },
+    {
+      "source": "Algorithm-Design,-Analysis-and-Complexity",
+      "target": "Organizational-Behaviour"
+    },
+    {
+      "source": "Organizational-Behaviour",
+      "target": "Computer-Science"
+    },
+    {
+      "source": "Computer-Science",
+      "target": "Principles-of-Marketing"
+    },
+    {
+      "source": "Principles-of-Marketing",
+      "target": "Software-Tools-and-Systems-Programming"
+    },
+    {
+      "source": "Software-Tools-and-Systems-Programming",
+      "target": "Canadian-Income-Tax"
+    },
+    {
+      "source": "Canadian-Income-Tax",
+      "target": "International-Trade"
+    },
+    {
+      "source": "International-Trade",
+      "target": "Strategic-Management"
+    },
+    {
+      "source": "Strategic-Management",
+      "target": "Operating-Systems"
+    },
+    {
+      "source": "Operating-Systems",
+      "target": "Commerce"
+    },
+    {
+      "source": "Commerce",
+      "target": "Financial-Accounting"
+    },
+    {
+      "source": "Financial-Accounting",
+      "target": "Theory-of-Computing"
+    },
+    {
+      "source": "Theory-of-Computing",
+      "target": "UofT"
+    },
+    {
+      "source": "UofT",
+      "target": "Operations-Management"
+    },
+    {
+      "source": "Operations-Management",
+      "target": "Video-Game-Design"
+    },
+    {
+      "source": "Video-Game-Design",
+      "target": "Financial-Markets"
+    },
+    {
+      "source": "Financial-Markets",
+      "target": "Data-Analysis"
+    },
+    {
+      "source": "Data-Analysis",
+      "target": "Deep-Learning-and-Neural-Network"
+    },
+    {
+      "source": "Deep-Learning-and-Neural-Network",
+      "target": "Machine-Learning"
+    },
+    {
+      "source": "Machine-Learning",
+      "target": "Management-Control"
+    },
+    {
+      "source": "Management-Control",
+      "target": "Artificial-Intelligence"
+    },
+    {
+      "source": "Artificial-Intelligence",
+      "target": "Critical-Thinking"
+    }
+  ]
+}
